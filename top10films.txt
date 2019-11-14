@@ -1,0 +1,247 @@
+Top 10 Adventure films: 
+                                                   title    rating
+962              Monty Python and the Holy Grail (1975)  4.174146
+1002                         Princess Bride, The (1987)  4.176732
+1001  Star Wars: Episode V - The Empire Strikes Back...  4.188202
+239           Star Wars: Episode IV - A New Hope (1977)  4.190672
+4461  Spirited Away (Sen to Chihiro no kamikakushi) ...  4.203810
+2536                                     Yojimbo (1961)  4.211717
+1003  Raiders of the Lost Ark (Indiana Jones and the...  4.219009
+765                           North by Northwest (1959)  4.233538
+4677                City of God (Cidade de Deus) (2002)  4.235410
+1659        Seven Samurai (Shichinin no samurai) (1954)  4.274180
+
+Top 10 Comedy films: 
+                                                   title    rating
+1037                                  Sting, The (1973)  4.173556
+2756                                 City Lights (1931)  4.174123
+962              Monty Python and the Holy Grail (1975)  4.174146
+273                                 Pulp Fiction (1994)  4.174231
+1919         Life Is Beautiful (La Vita è bella) (1997)  4.175837
+1002                         Princess Bride, The (1987)  4.176732
+965         Wallace & Gromit: The Wrong Trousers (1993)  4.181068
+806                                Thin Man, The (1934)  4.184187
+4048  Amelie (Fabuleux destin d'Amélie Poulain, Le) ...  4.197072
+655   Dr. Strangelove or: How I Learned to Stop Worr...  4.247287
+
+Top 10 Western films: 
+                                                   title    rating
+1068                                  Unforgiven (1992)  3.988340
+2796                              Searchers, The (1956)  3.992951
+551                              Wild Bunch, The (1969)  4.004726
+8315                            Django Unchained (2012)  4.037893
+1105          Butch Cassidy and the Sundance Kid (1969)  4.053638
+691                                    Lone Star (1996)  4.074903
+1085                                   High Noon (1952)  4.075288
+1006  Good, the Bad and the Ugly, The (Buono, il bru...  4.123241
+1013  Once Upon a Time in the West (C'era una volta ...  4.128545
+1056           Treasure of the Sierra Madre, The (1948)  4.161397
+
+Top 10 Action films: 
+                                                   title    rating
+1001  Star Wars: Episode V - The Empire Strikes Back...  4.188202
+239           Star Wars: Episode IV - A New Hope (1977)  4.190672
+2536                                     Yojimbo (1961)  4.211717
+1003  Raiders of the Lost Ark (Indiana Jones and the...  4.219009
+7243                            Dark Knight, The (2008)  4.220129
+2478                                  Fight Club (1999)  4.227123
+765                           North by Northwest (1959)  4.233538
+4677                City of God (Cidade de Deus) (2002)  4.235410
+5514                            Band of Brothers (2001)  4.263182
+1659        Seven Samurai (Shichinin no samurai) (1954)  4.274180
+
+Top 10 Film-Noir films: 
+                                               title    rating
+1820                    Strangers on a Train (1951)  4.158615
+1050                           Touch of Evil (1958)  4.183022
+770                      Maltese Falcon, The (1941)  4.187212
+1062                                       M (1931)  4.193171
+786                                Notorious (1946)  4.197790
+1054                               Chinatown (1974)  4.199673
+1086                          Big Sleep, The (1946)  4.207361
+2849                        Double Indemnity (1944)  4.224282
+1016                          Third Man, The (1949)  4.246002
+779   Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)  4.256935
+
+Top 10 IMAX films: 
+                                                   title    rating
+8110                               Avengers, The (2012)  3.949486
+8078  Harry Potter and the Deathly Hallows: Part 2 (...  3.950665
+7554                                   Star Trek (2009)  3.964434
+6448                               Batman Begins (2005)  3.970754
+8160                      Dark Knight Rises, The (2012)  4.000210
+7794                    How to Train Your Dragon (2010)  4.000420
+7847                                 Toy Story 3 (2010)  4.012974
+8464                                Interstellar (2014)  4.023864
+7863                                   Inception (2010)  4.156172
+7243                            Dark Knight, The (2008)  4.220129
+
+Top 10 Fantasy films: 
+                                                   title    rating
+6333  Howl's Moving Castle (Hauru no ugoku shiro) (2...  4.066078
+5317  Nausicaä of the Valley of the Wind (Kaze no ta...  4.092082
+2513           Princess Mononoke (Mononoke-hime) (1997)  4.096299
+4636      Lord of the Rings: The Two Towers, The (2002)  4.107521
+4063  Lord of the Rings: The Fellowship of the Ring,...  4.137925
+5346  Lord of the Rings: The Return of the King, The...  4.142382
+4651       My Neighbor Totoro (Tonari no Totoro) (1988)  4.149481
+962              Monty Python and the Holy Grail (1975)  4.174146
+1002                         Princess Bride, The (1987)  4.176732
+4461  Spirited Away (Sen to Chihiro no kamikakushi) ...  4.203810
+
+Top 10 Documentary films: 
+                                                   title    rating
+3036                                      Baraka (1992)  4.051042
+2578                                       42 Up (1998)  4.070089
+1924                        Hands on a Hard Body (1996)  4.081409
+1154  Paradise Lost: The Child Murders at Robin Hood...  4.082967
+5349  Fog of War: Eleven Lessons from the Life of Ro...  4.103515
+8189                              Civil War, The (1990)  4.113281
+2389                           Stop Making Sense (1984)  4.128878
+995                          Thin Blue Line, The (1988)  4.128889
+964                           When We Were Kings (1996)  4.158416
+7819                                      Cosmos (1980)  4.220620
+
+Top 10 Animation films: 
+                                                   title    rating
+1027    Grand Day Out with Wallace and Gromit, A (1989)  4.066765
+4512     Grave of the Fireflies (Hotaru no haka) (1988)  4.089744
+5317  Nausicaä of the Valley of the Wind (Kaze no ta...  4.092082
+2513           Princess Mononoke (Mononoke-hime) (1997)  4.096299
+635   Wallace & Gromit: The Best of Aardman Animatio...  4.109473
+2843                           Creature Comforts (1989)  4.120696
+4651       My Neighbor Totoro (Tonari no Totoro) (1988)  4.149481
+651              Wallace & Gromit: A Close Shave (1995)  4.167315
+965         Wallace & Gromit: The Wrong Trousers (1993)  4.181068
+4461  Spirited Away (Sen to Chihiro no kamikakushi) ...  4.203810
+
+Top 10 Horror films: 
+                                                   title    rating
+6167                  Kingdom II, The (Riget II) (1997)  3.934783
+5515                        Kingdom, The (Riget) (1994)  3.970060
+1005                                      Aliens (1986)  4.005642
+7360  Let the Right One In (Låt den rätte komma in) ...  4.010526
+5324                Diabolique (Les diaboliques) (1955)  4.010932
+1060                                Shining, The (1980)  4.011534
+1018                                       Alien (1979)  4.041784
+2307                            Sixth Sense, The (1999)  4.054999
+1023                                      Psycho (1960)  4.076900
+545                    Silence of the Lambs, The (1991)  4.177057
+
+Top 10 Children films: 
+                                                   title    rating
+7794                    How to Train Your Dragon (2010)  4.000420
+7847                                 Toy Story 3 (2010)  4.012974
+2346                          Christmas Story, A (1983)  4.030888
+7572                                          Up (2009)  4.038266
+7307                                      WALL·E (2008)  4.038929
+4861  Laputa: Castle in the Sky (Tenkû no shiro Rapy...  4.061917
+1027    Grand Day Out with Wallace and Gromit, A (1989)  4.066765
+4651       My Neighbor Totoro (Tonari no Totoro) (1988)  4.149481
+651              Wallace & Gromit: A Close Shave (1995)  4.167315
+965         Wallace & Gromit: The Wrong Trousers (1993)  4.181068
+
+Top 10 Mystery films: 
+                            title    rating
+7863            Inception (2010)  4.156172
+4245  Rashomon (Rashômon) (1950)  4.176724
+3487              Memento (2000)  4.178547
+770   Maltese Falcon, The (1941)  4.187212
+1054            Chinatown (1974)  4.199673
+1086       Big Sleep, The (1946)  4.207361
+765    North by Northwest (1959)  4.233538
+1016       Third Man, The (1949)  4.246002
+761           Rear Window (1954)  4.271334
+47    Usual Suspects, The (1995)  4.334372
+
+Top 10 Musical films: 
+                                       title    rating
+2233         Buena Vista Social Club (1999)  3.953637
+7014                            Once (2006)  3.957521
+776                Wizard of Oz, The (1939)  3.981681
+906                   Shall We Dance (1937)  3.988339
+5334           Night at the Opera, A (1935)  4.047280
+801                          Top Hat (1935)  4.058019
+7518  Dr. Horrible's Sing-Along Blog (2008)  4.068372
+756              Singin' in the Rain (1952)  4.080879
+2389               Stop Making Sense (1984)  4.128878
+1058                       Duck Soup (1933)  4.129646
+
+Top 10 War films: 
+                                                   title    rating
+1036                       Boot, Das (Boat, The) (1981)  4.139730
+2626         Grand Illusion (La grande illusion) (1937)  4.150878
+1009                          Lawrence of Arabia (1962)  4.162102
+2532                                General, The (1926)  4.162770
+1021                                         Ran (1985)  4.173611
+1919         Life Is Beautiful (La Vita è bella) (1997)  4.175837
+985                               Paths of Glory (1957)  4.232623
+655   Dr. Strangelove or: How I Learned to Stop Worr...  4.247287
+5514                            Band of Brothers (2001)  4.263182
+490                             Schindler's List (1993)  4.310175
+
+Top 10 Drama films: 
+                                               title    rating
+4677            City of God (Cidade de Deus) (2002)  4.235410
+999          One Flew Over the Cuckoo's Nest (1975)  4.248079
+779   Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)  4.256935
+769                               Casablanca (1942)  4.258327
+5514                        Band of Brothers (2001)  4.263182
+1659    Seven Samurai (Shichinin no samurai) (1954)  4.274180
+1025                 Godfather: Part II, The (1974)  4.275641
+490                         Schindler's List (1993)  4.310175
+731                           Godfather, The (1972)  4.364732
+294                Shawshank Redemption, The (1994)  4.446990
+
+
+Top 10 Romance films: 
+                                                   title    rating
+2756                                 City Lights (1931)  4.174123
+6117                    Decalogue, The (Dekalog) (1989)  4.174129
+1919         Life Is Beautiful (La Vita è bella) (1997)  4.175837
+1002                         Princess Bride, The (1987)  4.176732
+4048  Amelie (Fabuleux destin d'Amélie Poulain, Le) ...  4.197072
+786                                    Notorious (1946)  4.197790
+765                           North by Northwest (1959)  4.233538
+6687  Lives of Others, The (Das leben der Anderen) (...  4.234790
+779       Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)  4.256935
+769                                   Casablanca (1942)  4.258327
+
+Top 10 Sci-Fi films: 
+                                                   title    rating
+1027    Grand Day Out with Wallace and Gromit, A (1989)  4.066765
+7518              Dr. Horrible's Sing-Along Blog (2008)  4.068372
+5317  Nausicaä of the Valley of the Wind (Kaze no ta...  4.092082
+5458       Eternal Sunshine of the Spotless Mind (2004)  4.105628
+503                                 Blade Runner (1982)  4.133706
+7863                                   Inception (2010)  4.156172
+8219                                Black Mirror (2011)  4.182990
+2146                                 Matrix, The (1999)  4.187186
+1001  Star Wars: Episode V - The Empire Strikes Back...  4.188202
+239           Star Wars: Episode IV - A New Hope (1977)  4.190672
+
+Top 10 Thriller films: 
+                                                   title    rating
+1062                                           M (1931)  4.193171
+786                                    Notorious (1946)  4.197790
+1054                                   Chinatown (1974)  4.199673
+2478                                  Fight Club (1999)  4.227123
+765                           North by Northwest (1959)  4.233538
+6687  Lives of Others, The (Das leben der Anderen) (...  4.234790
+4677                City of God (Cidade de Deus) (2002)  4.235410
+1016                              Third Man, The (1949)  4.246002
+761                                  Rear Window (1954)  4.271334
+47                           Usual Suspects, The (1995)  4.334372
+
+Top 10 Crime films: 
+                                     title    rating
+1054                     Chinatown (1974)  4.199673
+1086                Big Sleep, The (1946)  4.207361
+7243              Dark Knight, The (2008)  4.220129
+2849              Double Indemnity (1944)  4.224282
+2478                    Fight Club (1999)  4.227123
+4677  City of God (Cidade de Deus) (2002)  4.235410
+1025       Godfather: Part II, The (1974)  4.275641
+47             Usual Suspects, The (1995)  4.334372
+731                 Godfather, The (1972)  4.364732
+294      Shawshank Redemption, The (1994)  4.446990
